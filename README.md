@@ -56,13 +56,20 @@ as linhas que continham o texto buscado.
 ### Dicas
 Para acessar as dicas:
 
-Dica 1: senha -> qual comando dou para listar as pastas dentro de um diretório?
+Dica 1: senha -> qual comando dou para listar as pastas dentro de um diretório? 
+
 Dica 2: senha -> qual comandou dou para entrar numa pasta?
+
 Dica 3: senha -> quantos subsistemas temos na Skyrats?
+
 Dica 4: senha -> qual o nome do sistema operacional que usamos na Skyrats?
+
 Dica 5: senha -> qual o nome desse site?
+
 Dica 6: senha -> qual o firmware que usamos na nossa controlador? (peça ajuda de um veterano)
+
 Dica 7: senha -> qual o nome do simulador que usamos na Sky? (peça ajuda de um veterano)
+
 Dica 8: senha -> qual o apelido da funcionária do mês da sky? (peça ajuda de um veterano)
 
 - Não se esqueça de que a maioria dos comandos aceita opções para alterar o
