@@ -54,7 +54,7 @@ usar outros além desses):
 as linhas que continham o texto buscado.
 
 ### Dicas
-Para acessar as dicas:
+Para acessar as dicas (todas as senhas estão com letra minúscula):
 
 Dica 1: senha -> qual comandou dou para entrar numa pasta?
 
