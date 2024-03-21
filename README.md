@@ -56,9 +56,9 @@ as linhas que continham o texto buscado.
 ### Dicas
 Para acessar as dicas:
 
-Dica 1: senha -> qual comando dou para listar as pastas dentro de um diretório? 
+Dica 1: senha -> qual comandou dou para entrar numa pasta?
 
-Dica 2: senha -> qual comandou dou para entrar numa pasta?
+Dica 2: senha -> qual comando dou para listar as pastas dentro de um diretório? 
 
 Dica 3: senha -> quantos subsistemas temos na Skyrats?
 
