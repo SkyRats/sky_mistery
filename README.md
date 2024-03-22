@@ -82,7 +82,8 @@ dicas na ordem ("dica1", "dica2", "dica3", etc).
 
 ### Solução
 
-Para ver a solução, leia o arquivo `solucao`.
+Depois de encontrar a solução, mande no seu grupo "Encontrei o assassino". Mande uma foto dele no grupo. Vocês tem 3 chances.
+O sobrenome do assassino é a senha para a próxima etapa que será publicada em breve.
 
 ## Créditos
 
