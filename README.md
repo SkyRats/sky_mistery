@@ -35,7 +35,7 @@ repositório ou fazer o [download de um zip com os arquivos]
 
 ## Instruções
 
-Abra um terminal, vá até o diretório `clmystery`, e comece
+Abra um terminal, vá até o diretório `sky_mistery`, e comece
 lendo o arquivo `inicio`. Uma forma de fazer isto é com o seguinte comando:
 
 	cat inicio
