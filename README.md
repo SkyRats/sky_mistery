@@ -79,7 +79,7 @@ o comando `man` para saber mais sobre as opções aceitas por um comando,
 e.g. `man grep`.
 
 - Se você estiver com dificuldade em algum ponto, consulte os arquivos de
-dicas na ordem ("dica1", "dica2", "dica3", etc).
+dicas na ordem ("dica1", "dica2", "dica3", etc) --> ou tente a sorte de uma dica aleatória
 
 ### Solução
 
