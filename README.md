@@ -30,7 +30,8 @@ Aconteceu um assassinato na Cidade do Terminal, e a polícia precisa da sua ajud
 Para descobrir o culpado, você precisará de acesso a uma linha de comando.
 
 (Se você estiver lendo este arquivo no GitHub, precisará clonar este
-repositório ou fazer o [download de um zip com os arquivos](https://github.com/deborasetton/clmystery/archive/pt-BR.zip)).
+repositório ou fazer o [download de um zip com os arquivos]
+
 
 ## Instruções
 
